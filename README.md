@@ -1,5 +1,7 @@
 THIS IS GREG'S FORK! EVERYONE ELSE STAY OUT!!!
 
+^ Consider changing this. It seems especially aggressive in its current form.
+
 ![logo](https://ik.imagekit.io/gradsflow/logo/logo-small_g2MxLWesD.png?updatedAt=1627716948296)
 
 # An open-source AutoML Library in PyTorch
